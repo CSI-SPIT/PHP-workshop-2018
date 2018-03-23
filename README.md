@@ -1,7 +1,7 @@
 # PHP-workshop-2018
 Files related to the PHP workshop 2018
 
-Command to start the docker container:
+<h1>Command to start the docker container:</h1>
 
 sudo docker run -p 80:80 -it -v /path/in/your/filesystem:/path/inside/container linode/lamp bash
 
